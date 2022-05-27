@@ -1,20 +1,20 @@
 /**
+ * Example:
+ * var li = ListNode(5)
+ * var v = li.`val`
  * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * class ListNode(var `val`: Int) {
+ *     var next: ListNode? = null
  * }
  */
 class Solution {
-    public ListNode middleNode(ListNode head) {
-        ListNode middle = head;
-        while (head != null && head.next != null) {
-            middle = middle.next;
-            head = head.next.next;
+    fun middleNode(head: ListNode?): ListNode? {
+        var fast = head
+        var slow = head
+        while (fast != null && fast?.next != null) {
+            slow = slow?.next
+            fast = fast?.next?.next
         }
-        return middle;
+        return slow
     }
 }
