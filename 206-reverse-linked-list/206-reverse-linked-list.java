@@ -10,17 +10,27 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
+        return helper(head, null);
+    }
+    private ListNode helper(ListNode head, ListNode prev) {
+        if (head == null) 
+            return prev;
+        ListNode next = head.next;
+        head.next = prev;
+        return helper(next, head);
+    }    
+
+   /*  // iterative solution
+   public ListNode reverseList(ListNode head) {
         ListNode prev = null;
         ListNode curr = head;
-        ListNode next = null;
-        
         while (curr != null) {
-            next = curr.next;
+            ListNode next = curr.next;
             curr.next = prev;
             prev = curr;
             curr = next;
         }
-        head = prev;
-        return head;
+        return prev;
     }
+    */
 }
