@@ -14,9 +14,9 @@
  * }
  */
 class Solution {
-	List<Integer> lst;
+	List<Integer> lst = new ArrayList();
     public List<Integer> postorderTraversal(TreeNode root) {
-        lst = new ArrayList();
+        // lst = 
         dfs(root);
         return lst;
     }
