@@ -16,11 +16,9 @@ class Solution {
         if (root == null) return false
         val currSum: Int = sum + root!!.`val`
         if (root!!.left == null && root!!.right == null) {
-            println(currSum)
             if (currSum == targetSum) return true
         }
-        val a = helper(root!!.left, targetSum, currSum)
-        val b = helper(root!!.right, targetSum, currSum)
-        return (a || b)
+        return (helper(root!!.left, targetSum, currSum) ||
+                helper(root!!.right, targetSum, currSum))
     }
 }
