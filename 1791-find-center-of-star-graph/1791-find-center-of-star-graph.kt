@@ -1,5 +1,15 @@
 class Solution {
     fun findCenter(edges: Array<IntArray>): Int {
+        return when (edges[0][0]) {
+                    edges[1][0] -> edges[1][0]
+                    edges[1][1] -> edges[1][1]
+                    else -> edges[0][1]   
+                }
+    }
+}
+
+/* class Solution {
+    fun findCenter(edges: Array<IntArray>): Int {
         val hm = HashMap<Int, Int>()
         for (e in edges) {
             hm.put(e[0], hm.getOrDefault(e[0], 0) + 1)
@@ -15,4 +25,4 @@ class Solution {
         }
         return answer
     }
-}
+} */
