@@ -1,4 +1,5 @@
 class Solution {
+    // See my attached note for explanation
     fun isAlienSorted(words: Array<String>, order: String): Boolean {
         val t = Array(26) {0}
         for (i in order.indices) {
