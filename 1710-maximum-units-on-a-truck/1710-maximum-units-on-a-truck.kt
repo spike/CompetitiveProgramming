@@ -1,24 +1,24 @@
 class Solution {
-    // Time: O(n log(n))
-    // Space: O(n) because a new list needs to be made so it can be sorted
-    
     fun maximumUnits(boxTypes: Array<IntArray>, truckSize: Int): Int {
-        // sort the boxes and place the bigger boxes first
-        val biggerFirst = Comparator<IntArray>() { a, b ->
-                b[1] - a[1]
+        val boxes = boxTypes.sortedWith(Comparator<IntArray> { a, b ->
+            b[1].compareTo(a[1])  // sorting backwards
+        })
+        var remainingSpace = truckSize
+        var shipped = 0
+        for (box in boxes) {   
+            if (remainingSpace - (box[0] * box[1]) >= 0) { 
+                remainingSpace -= box[0] 
+                shipped += (box[0] * box[1])  
+            } else {
+                var currentNum = box[0]   
+                while (currentNum > 0 && remainingSpace > 0) { 
+                    remainingSpace -= 1
+                    shipped += box[1]
+                    currentNum -= 1
+                }
+            }
+            if (remainingSpace == 0) break
         }
-        val boxes = boxTypes.toList().sortedWith(biggerFirst)
-        var remaining = truckSize
-        var total = 0
-        var i = 0
-        // loop through the box until the space on the truck is empty
-        // or unless the boxes are too big
-        while (remaining > 0 && i < boxes.size) {
-            val cap = Math.min(remaining, boxes[i][0])
-            total += cap * boxes[i][1]
-            remaining -= boxes[i][0]
-            i++
-        }
-        return total
+        return shipped
     }
 }
