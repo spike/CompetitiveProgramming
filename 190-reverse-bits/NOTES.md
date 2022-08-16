@@ -1,6 +1,6 @@
 ## loop 32 times
 - shift result right by 1 digit (initial result is 0, so nothing happens the first loop)
-- cut off the right part by modding
+- cut off the rightmost binary digit by modding by 2
 - shift right by 1 digit
 ​
 ## Complexities
@@ -9,5 +9,5 @@
 ​
 ## Possible improvements
 - if this function is called too many times
-- cache results into a hashset
-​
+- then cache results into a hashmap
+- to save on space, cache only 16 bit integers and recombine the two at the end
