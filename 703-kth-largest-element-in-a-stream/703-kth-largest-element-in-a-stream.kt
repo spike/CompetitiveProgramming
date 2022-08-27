@@ -5,12 +5,8 @@ class KthLargest(val k: Int, nums: IntArray) {
         for (n in nums) {
             this.add(n)
         }
-        while (pq.size > k) {
-            pq.remove()
-        }
     }
     fun add(v: Int): Int {
-        var ans = 0
         if (pq.isEmpty() || pq.size < k || pq.peek() < v) {
             pq.add(v)
             if (pq.size > k) pq.remove()
