@@ -1,1 +1,1 @@
-​
+https://developer.android.com/reference/kotlin/java/util/Queue#offer(java.util.Queue.E)
