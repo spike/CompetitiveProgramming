@@ -1,18 +1,16 @@
 // ankify init { }
 class KthLargest(val k: Int, nums: IntArray) { 
-    val pq = PriorityQueue<Int>(k)
+    val pq = PriorityQueue<Int>(k+1)
     init {
         for (n in nums) {
-            this.add(n)
+            add(n)
         }
     }
     fun add(v: Int): Int {
-        if (pq.isEmpty() || pq.size < k || pq.peek() < v) {
-            pq.add(v)
-            if (pq.size > k) pq.remove()
-        }
+        pq.offer(v)
+        if (pq.size > k) pq.poll()
         return pq.peek()
-    }
+    } 
 }
 
 /**
