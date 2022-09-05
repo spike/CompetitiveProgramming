@@ -5,9 +5,9 @@ class Solution {
         for (i in 1..num) {
             var count = 0
             var n = i
-            while (n > 0) {
-                count += n % 2
-                n /= 2
+            while (n != 0) {
+                n = n and (n - 1)
+                count++
             }
             arr[i] = count
         }
