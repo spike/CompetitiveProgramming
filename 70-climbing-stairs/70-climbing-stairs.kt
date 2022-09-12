@@ -3,9 +3,9 @@ class Solution {
     
     fun climbStairs(n: Int): Int {
         dp = Array(n+1) {0}
-      //  return topDown(n)
-        return bottomUp(n)
-      // return iterativeClimbStairs(n)
+        return topDown(n)
+        //return bottomUp(n)
+      // return iterative(n)
     }
     
     fun bottomUp(n: Int): Int {
