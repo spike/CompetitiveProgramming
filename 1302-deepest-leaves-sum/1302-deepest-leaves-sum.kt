@@ -10,6 +10,27 @@
  */
 class Solution {
     fun deepestLeavesSum(root: TreeNode?): Int {
+        val q: Queue<TreeNode> = LinkedList<TreeNode>()
+        var sum = 0;                    
+        if (root != null) q.offer(root)
+        while (!q.isEmpty()) {
+            sum = 0  // reset 0 at the current level
+            for (i in 0 until q.size) {
+                val node = q.poll()
+                val num = node.`val`
+                sum += num
+                if (node.left != null) q.offer(node.left)
+                if (node.right != null) q.offer(node.right)
+            }
+        }
+        return sum
+    }
+}
+
+
+/*
+class Solution {
+    fun deepestLeavesSum(root: TreeNode?): Int {
         val q: Queue<Pair<TreeNode,Int>> = LinkedList<Pair<TreeNode,Int>>()
         var sum = 0; var previousLevel = 0                     
         if (root != null) q.add(Pair(root, 0))
@@ -28,4 +49,4 @@ class Solution {
         }
         return sum
     }
-}
+} */
