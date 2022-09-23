@@ -13,9 +13,11 @@ class Solution {
         val q: Queue<TreeNode> = LinkedList<TreeNode>()
         var sum = 0;                    
         if (root != null) q.offer(root)
-        while (!q.isEmpty()) {
+        while (!q.isEmpty()) {  // normal BFS thus far
             sum = 0  // reset 0 at the current level
-            for (i in 0 until q.size) {
+             
+            for (i in 0 until q.size) { // <=== tricky part //   
+            // process the entire level before moving forward
                 val node = q.poll()
                 val num = node.`val`
                 sum += num
@@ -26,7 +28,6 @@ class Solution {
         return sum
     }
 }
-
 
 /*
 class Solution {
