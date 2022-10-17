@@ -7,7 +7,6 @@ class Solution { /*
       [1,3],[2,6],
     */
     fun merge(intervals: Array<IntArray>): Array<IntArray> {
-        // [[1,4],[2,3]]
         intervals.sortWith(Comparator<IntArray> { a, b ->
             if (a[0] == b[0]) {
                 a[1].compareTo(b[1])
@@ -16,10 +15,10 @@ class Solution { /*
             }
         })
         val lst = mutableListOf<IntArray>()
-        var start = intervals[0][0] // 1
-        var end = intervals[0][1] // 4
+        var start = intervals[0][0] // 
+        var end = intervals[0][1] //
         for (i in 1..intervals.lastIndex) {
-            if (intervals[i][0] <= end) { // 2 <= 4 true
+            if (intervals[i][0] <= end) { // 
                 end = Math.max(intervals[i][1], end)
             } else {
                 lst.add(intArrayOf(start, end))
@@ -28,10 +27,6 @@ class Solution { /*
             }
         }
         lst.add(intArrayOf(start, end))
-        val arr: Array<IntArray> = Array<IntArray>(lst.size) {intArrayOf()}
-        for (i in lst.indices) {
-            arr[i] = lst.get(i)
-        }
-        return arr
+        return lst.toTypedArray()
     }
 }
