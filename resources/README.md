@@ -1,4 +1,20 @@
 
+### General Advice 
+
+A good summary of what you need to learn:
+
+https://leetcode.com/discuss/study-guide/1691931/Beginner's-guide-on-interview-preparation
+
+Edbert Chan on Youtube. He has a "You suck at Coding Interviews" video series. Plus he has some live coaching sessions worth looking at. Personally, I like his idea of keeping a practice diary and video recording yourself when solving problems. 
+
+https://www.youtube.com/c/EChanTech
+
+https://github.com/PinkyJie/leetcode-patterns 
+(free summary of what's in educative.io)
+
+https://www.educative.io/courses/grokking-the-coding-interview (paid)
+
+
 ### Programming Language Syntax
 
 If you want to do well in Leetcode, you really need to master the standard syntax of your chosen programming language, and for that, I recommend you use spaced repetition. Knowing a language well is a prerequisite to Leetcode.
@@ -31,21 +47,6 @@ Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious Peop
 A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up Your Core Programming Skills
 
 https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/
-
-### General Advice 
-
-A good summary of what you need to learn:
-
-https://leetcode.com/discuss/study-guide/1691931/Beginner's-guide-on-interview-preparation
-
-Edbert Chan on Youtube. He has a "You suck at Coding Interviews" video series. Plus he has some live coaching sessions worth looking at. Personally, I like his idea of keeping a practice diary and video recording yourself when solving problems. 
-
-https://www.youtube.com/c/EChanTech
-
-https://github.com/PinkyJie/leetcode-patterns 
-(free summary of what's in educative.io)
-
-https://www.educative.io/courses/grokking-the-coding-interview (paid)
 
 ### Key Learning Strategies
 
