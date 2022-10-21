@@ -68,11 +68,7 @@ https://www.youtube.com/watch?v=QvuQH4_05LI
 
 I also have two books on problem solving, but this video does a pretty good job of summarizing what's in those books as well. 
 
-### For Advanced Leetcoders
-
-Here is a particularly good video by Errichto on youtube on the different nuances of Binary Search. Because even if you know Binary Search pretty well, it can be difficult to implement in different scenarios.
-
-https://www.youtube.com/watch?v=GU7DpgHINWQ
+### Leetcode Contests
 
 I recommend you try to do the Leetcode contests. The time pressure helps. They're usually at 7:30 PM on Saturdays (Pacific Time).  
 
@@ -81,7 +77,22 @@ https://leetcode.com/contest/
 I've started posted my own Leetcode contests on my youtube channel. Chances are, you can probably do better than I can in these contests. 
 https://www.youtube.com/c/StephanBranczyk
 
-Abdul Bari on Youtube. He has some of the clearest explanations of complicated algorithms. His materials are definitely not for beginners. Also, his videos are old and the sound is not great, but his explanations are so clear, they're worth listening to.  https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
+
+### For Advanced Leetcoders Stuck on a Plateau
+
+Self-deception: maybe why you're still grey after practicing every day
+
+https://codeforces.com/blog/entry/98621
+
+https://www.youtube.com/watch?v=QsIzwrEZG8U
+
+### Advanced Topics
+
+Here is a particularly good video by Errichto on youtube on the different nuances of Binary Search. Because even if you know Binary Search pretty well, it can be difficult to implement in different scenarios.
+
+https://www.youtube.com/watch?v=GU7DpgHINWQ
+
+Abdul Bari, a Computer Science Professor, on Youtube. He has some of the clearest explanations of complicated algorithms. His materials are definitely not for beginners. Also, his videos are old and the sound is not great, but his explanations are so clear, they're worth listening to.  https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
 
 Elements of Programming In Java (they also have a version for Python and one for C++) https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272/ This book is definitely not for beginners, but if you need to up your Leetcode game, this book is the one to get. 
 
