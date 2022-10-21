@@ -38,7 +38,7 @@ Also, if the "Easy" questions on Leetcode are too difficult for you. I recommend
 
 The biggest drawback of that web site is that it only supports: Python, Java, C++, Ruby, and Javascript, but otherwise it's a good web site. And for beginners, it's better than Leetcode. Just practice by yourself initially, if you practice with others, the system will try to find "easy" questions that no one else in your room has seen before, and those will be pretty difficult even if they're labeled "easy".
 
-### General Advice
+### Some Good General Advice and Key Learning Strategies
 
 Edbert Chan on Youtube. He has a "You suck at Coding Interviews" video series. Plus he has some live coaching sessions worth looking at. Personally, I like his idea of keeping a practice diary and video recording yourself when solving problems. 
 
