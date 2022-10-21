@@ -87,7 +87,7 @@ Elements of Programming In Java (they also have a version for Python and one for
 
 It contains a variety of difficult problems. It also has a test suite you can git clone and directly load into your IDE. You do not need to buy the book to download the test suite. https://elementsofprogramminginterviews.com/
 
-## Tools I use for Our Algorithms Meetup
+### Tools I use for Our Algorithms Meetup
 
 Leetcode Video Solutions - Watch free LeetCode video solutions on the Leetcode problem page itself.
 
