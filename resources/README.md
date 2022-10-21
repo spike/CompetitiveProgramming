@@ -34,7 +34,7 @@ https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/168050
 
 ### Easier Leetcode Alternative
 
-Also, if the "Easy" questions on Leetcode are too difficult for you. I recommend you try the easy questions on http://binarysearch.com/ 
+If the "Easy" questions on Leetcode are too difficult for you. I recommend you try the easy questions on http://binarysearch.com/ 
 
 The biggest drawback of that web site is that it only supports: Python, Java, C++, Ruby, and Javascript, but otherwise it's a good web site. And for beginners, it's better than Leetcode. Just practice by yourself initially, if you practice with others, the system will try to find "easy" questions that no one else in your room has seen before, and those will be pretty difficult even if they're labeled "easy".
 
