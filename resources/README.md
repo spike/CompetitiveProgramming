@@ -60,7 +60,7 @@ The concept of "Random Practice". Random practice is the best way you're going t
 The concept of "The Feynman Technique"
 https://www.youtube.com/results?search_query=feynman+technique+in-depth
 
-The concept of "Incremental Reading"
+The concept of "Incremental Reading" can be very useful for the harder materials.
 https://www.youtube.com/watch?v=oNCLLNZEtz0
 
 ### General Strategies for Problem Solving
