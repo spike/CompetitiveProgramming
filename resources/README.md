@@ -32,13 +32,11 @@ A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up
 
 https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/
 
-### Easier Leetcode Alternative
+### General Advice 
 
-If the "Easy" questions on Leetcode are too difficult for you. I recommend you try the easy questions on http://binarysearch.com/ 
+A good summary of what you need to learn:
 
-The biggest drawback of that web site is that it only supports: Python, Java, C++, Ruby, and Javascript, but otherwise it's a good web site. And for beginners, it's better than Leetcode. Just practice by yourself initially, if you practice with others, the system will try to find "easy" questions that no one else in your room has seen before, and those will be pretty difficult even if they're labeled "easy".
-
-### Some Good General Advice and Key Learning Strategies
+https://leetcode.com/discuss/study-guide/1691931/Beginner's-guide-on-interview-preparation
 
 Edbert Chan on Youtube. He has a "You suck at Coding Interviews" video series. Plus he has some live coaching sessions worth looking at. Personally, I like his idea of keeping a practice diary and video recording yourself when solving problems. 
 
@@ -48,6 +46,8 @@ https://github.com/PinkyJie/leetcode-patterns
 (free summary of what's in educative.io)
 
 https://www.educative.io/courses/grokking-the-coding-interview (paid)
+
+### Key Learning Strategies
 
 The concept of "Deliberate Practice" from other disciplines/sports.
 https://www.youtube.com/results?search_query=deliberate+practice
