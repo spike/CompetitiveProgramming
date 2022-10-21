@@ -86,3 +86,17 @@ Abdul Bari on Youtube. He has some of the clearest explanations of complicated a
 Elements of Programming In Java (they also have a version for Python and one for C++) https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272/ This book is definitely not for beginners, but if you need to up your Leetcode game, this book is the one to get. 
 
 It contains a variety of difficult problems. It also has a test suite you can git clone and directly load into your IDE. You do not need to buy the book to download the test suite. https://elementsofprogramminginterviews.com/
+
+## Tools I use for Our Alorighms Meetup
+
+Leetcode Video Solutions - Watch free LeetCode video solutions on the Leetcode problem page itself.
+
+https://chrome.google.com/webstore/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm
+
+Paint Tool - Marker for Chrome
+
+https://chrome.google.com/webstore/detail/paint-tool-marker-for-chr/nadohmjilefnhjobhhlnnddplaklmnnp
+
+LeetHub - Automatically integrate your Leetcode submissions to GitHub
+
+https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi
