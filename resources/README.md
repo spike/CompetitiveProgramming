@@ -70,7 +70,7 @@ I also have two books on problem solving, but this video does a pretty good job 
 
 ### Leetcode Contests
 
-I recommend you try to do the Leetcode contests. The time pressure helps. They're usually at 7:30 PM on Saturdays (Pacific Time).  
+I recommend you try to do the Leetcode contests. The time pressure helps. And the randomness of the problems will help with your pattern-recognition. They're usually at 7:30 PM on Saturdays (Pacific Time).  
 
 https://leetcode.com/contest/
 
