@@ -52,6 +52,8 @@ https://www.educative.io/courses/grokking-the-coding-interview (paid)
 The concept of "Deliberate Practice" from other disciplines/sports.
 https://www.youtube.com/results?search_query=deliberate+practice
 
+The concept of "Random Practice". Random practice is the best way you're going to train yourself at pattern recognition. This is why you should be doing our meetup homework, the daily Leetcode problems, and/or the Leetcode weekly contests.
+
 The concept of "The Feynman Technique"
 https://www.youtube.com/results?search_query=feynman+technique+in-depth
 
