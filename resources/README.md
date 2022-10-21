@@ -43,6 +43,12 @@ https://github.com/PinkyJie/leetcode-patterns
 
 https://www.educative.io/courses/grokking-the-coding-interview (paid)
 
+The concept of "Deliberate Practice" from other disciplines/sports.
+https://www.youtube.com/results?search_query=deliberate+practice
+
+The concept of "The Feynman Technique"
+https://www.youtube.com/results?search_query=feynman+technique+in-depth
+
 ### General Strategies for Problem Solving
 
 Tips to be a better problem solver by 3Blue1Brown
