@@ -55,6 +55,9 @@ https://www.youtube.com/results?search_query=deliberate+practice
 The concept of "The Feynman Technique"
 https://www.youtube.com/results?search_query=feynman+technique+in-depth
 
+The concept of "Incremental Reading"
+https://www.youtube.com/watch?v=oNCLLNZEtz0
+
 ### General Strategies for Problem Solving
 
 Tips to be a better problem solver by 3Blue1Brown
