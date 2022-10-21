@@ -52,7 +52,7 @@ https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/168050
 
 Also, I recommend you use a mix of learning strategies. 
 
-The concept of "Deliberate Practice" from other disciplines/sports is very useful for Leetcode
+The concepts of "Deliberate Practice" and self-reflection from other disciplines/sports is very useful for Leetcode
 https://www.youtube.com/results?search_query=deliberate+practice
 
 The concept of "Random Practice". Random practice is the best way you're going to train yourself at pattern recognition. This is why you should be doing our meetup homework, the daily Leetcode problems, and/or the Leetcode weekly contests.
