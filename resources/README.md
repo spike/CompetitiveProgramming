@@ -104,7 +104,7 @@ Leetcode Video Solutions - Watch free LeetCode video solutions on the Leetcode p
 
 https://chrome.google.com/webstore/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm
 
-Paint Tool - Marker for Chrome
+Paint Tool - Marker for Chrome. This tool is useful to draw diagrams on the Leetcode page itself. 
 
 https://chrome.google.com/webstore/detail/paint-tool-marker-for-chr/nadohmjilefnhjobhhlnnddplaklmnnp
 
