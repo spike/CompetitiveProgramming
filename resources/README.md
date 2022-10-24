@@ -3,16 +3,11 @@
 
 A good summary of what you need to learn:
 
-https://leetcode.com/discuss/study-guide/1691931/Beginner's-guide-on-interview-preparation
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
 Edbert Chan on Youtube. He has a "You suck at Coding Interviews" video series. Plus he has some live coaching sessions worth looking at. Personally, I like his idea of keeping a practice diary and video recording yourself when solving problems. 
 
 https://www.youtube.com/c/EChanTech
-
-https://github.com/PinkyJie/leetcode-patterns 
-(free summary of what's in educative.io)
-
-https://www.educative.io/courses/grokking-the-coding-interview (paid)
 
 
 ### Programming Language Syntax
