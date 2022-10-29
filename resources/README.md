@@ -100,7 +100,7 @@ And unlike "Cracking the Code Interview", the EPI book is much more reader-frien
 
 ### Tools I use for Our Algorithms Meetup
 
-Leetcode Video Solutions - Watch free LeetCode video solutions on the Leetcode problem page itself.
+Leetcode Video Solutions - This Chrome extension overlays a tab with related youtube videos on top of each leetcode problem. You do not need Leetcode Premium to use this. This extension is **free**. 
 
 https://chrome.google.com/webstore/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm
 
