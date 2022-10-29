@@ -96,7 +96,7 @@ Elements of Programming In Java (they also have a version for Python and one for
 
 It contains a variety of difficult problems. It also has a test suite you can git clone and directly load into your IDE. You do not need to buy the book to download the test suite. https://elementsofprogramminginterviews.com/
 
-And unlike "Cracking the Code Interview", the EPI book is much more reader-friendly, because it gives you the solution right after each problem, so you don't have to flip the book to the end each time looking for the solution or the pattern. 
+And unlike "Cracking the Code Interview", the EPI book is much more reader-friendly, because it gives you the solution right after each problem, so you don't have to flip the book to the end each time you're looking for the official solution or the pattern. 
 
 ### Tools I use for Our Algorithms Meetup
 
