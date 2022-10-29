@@ -92,7 +92,7 @@ https://www.youtube.com/watch?v=GU7DpgHINWQ
 
 Abdul Bari, a Computer Science Professor, on Youtube. He has some of the clearest explanations of complicated algorithms. His materials are definitely not for beginners. Also, his videos are old and the sound is not great, but his explanations are so clear, they're worth listening to.  https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
 
-Elements of Programming In Java (they also have a version for Python and one for C++) https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272/ This book is definitely not for beginners, but if you need to up your Leetcode game, this book is the one to get. 
+Elements of Programming In Java (they also have a version for Python and one for C++) https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272/ This book is definitely **NOT** for beginners, but if you need to up your Leetcode game, this book is the one to get. 
 
 It contains a variety of difficult problems. It also has a test suite you can git clone and directly load into your IDE. You do not need to buy the book to download the test suite. https://elementsofprogramminginterviews.com/
 
