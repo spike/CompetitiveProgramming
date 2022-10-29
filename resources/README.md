@@ -114,7 +114,9 @@ https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbg
 
 ### Tools I use for Active Recall and Spaced Repetition
 
-Anki: https://apps.ankiweb.net/ 
+#### Anki
+
+https://apps.ankiweb.net/ 
 
 AnkiDroid (Android Client for Anki): https://play.google.com/store/apps/details?id=com.ichi2.anki
 
@@ -123,9 +125,11 @@ Plugins I use frequently with Anki:
  - Review Heatmap: https://ankiweb.net/shared/info/1771074083
  - Image Occlusion Enhanced: https://ankiweb.net/shared/info/1374772155
 
-Anki has [871+ plugins](https://ankiweb.net/shared/addons/2.1). Do not install too many at the same time. It can make your Anki crash. 
+Anki has [871+ plugins](https://ankiweb.net/shared/addons/2.1). Do not install too many at the same time. It can make your Anki crash. If you do crash, just press the 'shift' key when you restart Anki. This will restart Anki with all the plugins temporarily deactivated. 
 
-Obsidian: https://obsidian.md/
+#### Obsidian
+
+https://obsidian.md/
 
 Core Obsidian Plugins: Daily Notes, Outline
 
