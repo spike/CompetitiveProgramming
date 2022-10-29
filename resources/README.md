@@ -112,7 +112,7 @@ LeetHub - Automatically integrate your Leetcode submissions to GitHub
 
 https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi
 
-### Tools I use for Spaced Repetition
+### Tools I use for Active Recall and Spaced Repetition
 
 Anki: https://apps.ankiweb.net/ 
 
@@ -120,9 +120,10 @@ AnkiDroid (Android Client for Anki): https://play.google.com/store/apps/details?
 
 Plugins I use frequently with Anki:
 
-Review Heatmap: https://ankiweb.net/shared/info/1771074083
+ - Review Heatmap: https://ankiweb.net/shared/info/1771074083
+ - Image Occlusion Enhanced: https://ankiweb.net/shared/info/1374772155
 
-Image Occlusion Enhanced: https://ankiweb.net/shared/info/1374772155
+Anki has [871+ plugins](https://ankiweb.net/shared/addons/2.1). Do not install too many at the same time. It can make your Anki crash. 
 
 Obsidian: https://obsidian.md/
 
