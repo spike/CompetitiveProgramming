@@ -111,3 +111,25 @@ https://chrome.google.com/webstore/detail/paint-tool-marker-for-chr/nadohmjilefn
 LeetHub - Automatically integrate your Leetcode submissions to GitHub
 
 https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi
+
+### Tools I use for Spaced Repetition
+
+Anki: https://apps.ankiweb.net/ 
+
+AnkiDroid (Android Client for Anki): https://play.google.com/store/apps/details?id=com.ichi2.anki
+
+Plugins I use frequently with Anki:
+
+Review Heatmap: https://ankiweb.net/shared/info/1771074083
+
+Image Occlusion Enhanced: https://ankiweb.net/shared/info/1374772155
+
+Obsidian: https://obsidian.md/
+
+Core Obsidian Plugins: Daily Notes, Outline
+
+Community Plugins for Obsidian: Copy button for code blocks, Calendar, **Editor Syntax Highlighting in code blocks**, **ExcaliDraw**, HotKeys++, **Outliner**, Recent Files, Tasks (I do NOT use the Spaced Repetition plugin on Obsidian, it sucks. But I do use Obsidian for Active Recall and for tracking my Spaced Repetition progress. I just do it manually.)
+
+Editor Setting (not a plugin, but very important): **Fold heading** is turned on (I use this folding functionality to test myself. It's very useful)
+
+Appearance Setting: Base theme > **Dark**, Themes > Manage button > **Obsidian Nord** (this theme is very important if you want each level of headers to have a different color like mine does)
