@@ -133,7 +133,7 @@ https://obsidian.md/
 
 Core Obsidian Plugins: Daily Notes, Outline
 
-Community Plugins for Obsidian: Copy button for code blocks, Calendar, **Editor Syntax Highlighting in code blocks**, **ExcaliDraw**, HotKeys++, **Outliner**, Recent Files, Tasks (I do NOT use the Spaced Repetition plugin on Obsidian, it sucks. But I do use Obsidian for Active Recall and for tracking my Spaced Repetition progress. I just do it manually.)
+Community Plugins for Obsidian: Copy button for code blocks, Calendar, **Editor Syntax Highlighting in code blocks**, **ExcaliDraw**, HotKeys++, **Outliner**, Recent Files, Tasks (I do NOT use the Spaced Repetition plugin on Obsidian, it sucks. But I do use Obsidian for Active Recall and for tracking my Spaced Repetition progress. I use the header folding functionality to test myself and I devised my own abbreviation system for keeping track of my progress.)
 
 Editor Setting (not a plugin, but very important): **Fold heading** is turned on (I use this folding functionality to test myself. It's very useful)
 
