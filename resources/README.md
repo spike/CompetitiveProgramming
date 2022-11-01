@@ -1,7 +1,7 @@
 
 ### General Advice 
 
-A good summary of what you need to learn:
+A good visual summary of what you need to learn:
 
 https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
