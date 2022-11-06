@@ -108,6 +108,6 @@ Paint Tool - Marker for Chrome. This tool is useful to draw diagrams on the Leet
 
 https://chrome.google.com/webstore/detail/paint-tool-marker-for-chr/nadohmjilefnhjobhhlnnddplaklmnnp
 
-LeetHub - Automatically integrate your Leetcode submissions to GitHub
+(actually, this extension stopped working after the redesign of Leetcode) LeetHub - Automatically integrate your Leetcode submissions to GitHub
 
 https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi
