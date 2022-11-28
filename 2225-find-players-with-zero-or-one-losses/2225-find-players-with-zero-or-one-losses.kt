@@ -12,15 +12,18 @@ class Solution { /*
 */
     fun findWinners(matches: Array<IntArray>): List<List<Int>> {
         val player = HashMap<Int, Int>()
+        var maxPlayer = 0
         for (match in matches) {
             val winner = match[0]
             val loser = match[1]
             player[winner] = player.getOrDefault(winner, 0)
             player[loser] = player.getOrDefault(loser, 0) + 1
+            maxPlayer = Math.max(winner, maxPlayer)
+            maxPlayer = Math.max(loser, maxPlayer)
         }
         val a = mutableListOf<Int>()
         val b = mutableListOf<Int>()
-        for (i in 0..100_000) {
+        for (i in 0..maxPlayer) {
             if (player.containsKey(i)) {
                 if (player[i] == 0) a.add(i)
                 if (player[i] == 1) b.add(i)
