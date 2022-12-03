@@ -3,7 +3,6 @@ class Solution {
         val MOD = (Math.pow(10.0, 9.0) + 7.0).toLong()
         var k = j
         var prod = 1L
-        // priority queue
         val pq = PriorityQueue<Int>()
         for (n in nums) {
             pq.add(n)
@@ -15,8 +14,7 @@ class Solution {
         }
         while(pq.isNotEmpty()) {
             prod = (pq.remove() * prod) % MOD
-        }
-        
-        return (prod % MOD).toInt()
+        } 
+        return prod.toInt()
     }
 }
