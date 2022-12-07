@@ -17,8 +17,9 @@ class Solution {
     }
     fun dfs(root: TreeNode?, low: Int, high: Int) {
         if (root == null) return
-        if (root.`val` >= low && root.`val` <= high) sum+=root.`val`
-        dfs(root.left, low, high)
-        dfs(root.right, low, high)
+        val v = root.`val`
+        if (v >= low && v <= high) sum += v
+        if (v > low) dfs(root.left, low, high)
+        if (v < high) dfs(root.right, low, high)
     }
 }
