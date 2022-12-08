@@ -19,7 +19,7 @@ class Solution {
     }
     fun dfs(root: TreeNode?, q: Queue<Int>,
            check: Boolean) {
-        if (root == null) return
+        if (res != true || root == null) return
         dfs(root.left, q, check)
         if (root.left == null &&
             root.right == null) {
