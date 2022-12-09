@@ -9,19 +9,20 @@
  * }
  */
 class Solution {
+    var maxDiff = 0
     fun maxAncestorDiff(root: TreeNode?): Int {
-        return dfs(root, root!!.`val`, root!!.`val`)
+        maxDiff = 0
+        dfs(root, root!!.`val`, root!!.`val`)
+        return maxDiff
     }
-    fun dfs(root: TreeNode?, min: Int, max: Int): Int {
-        if (root == null) return 0
+    fun dfs(root: TreeNode?, min: Int, max: Int) {
+        if (root == null) return
         val v = root.`val`
         val minArg = Math.min(min, v)
         val maxArg = Math.max(max, v)
-        var diff = Math.max(v-min, max-v)
-        val l = dfs(root.left, minArg, maxArg)
-        val r = dfs(root.right, minArg, maxArg)
-        diff = Math.max(l, diff)
-        diff = Math.max(r, diff)
-        return diff
+        var diff = Math.abs(minArg - maxArg)
+        maxDiff = Math.max(diff, maxDiff)
+        dfs(root.left, minArg, maxArg)
+        dfs(root.right, minArg, maxArg)
     }
 }
