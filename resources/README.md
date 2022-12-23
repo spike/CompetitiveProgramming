@@ -72,7 +72,7 @@ I recommend you try to do the Leetcode contests. The time pressure helps. And th
 
 https://leetcode.com/contest/
 
-I've started posted my own Leetcode contests on my youtube channel. Chances are, you can probably do better than I can in these contests. 
+I've started posting my own Leetcode contests on my youtube channel. 
 https://www.youtube.com/c/StephanBranczyk
 
 
