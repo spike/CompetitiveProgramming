@@ -100,14 +100,18 @@ And unlike "Cracking the Code Interview", the EPI book is much more reader-frien
 
 ### Tools I use for Our Algorithms Meetup
 
-Leetcode Video Solutions - This Chrome extension overlays a tab with related youtube videos on top of each leetcode problem. You do not need Leetcode Premium to use this. This extension is **free**. It's a MUST if you do leetcode problems because it saves you from having to open youtube and search for the particular problem you're on. It does all of this for you automatically. 
-
-https://chrome.google.com/webstore/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm
-
 Paint Tool - Marker for Chrome. This tool is useful to draw diagrams on the Leetcode page itself. 
 
 https://chrome.google.com/webstore/detail/paint-tool-marker-for-chr/nadohmjilefnhjobhhlnnddplaklmnnp
 
-(actually, this extension stopped working after the redesign of Leetcode) LeetHub - Automatically integrate your Leetcode submissions to GitHub
+
+***Special Note:*** The two extensions below only work on the old legacy Leetcode design (and I'm not sure when they'll be updated to work with the new design). If you need to re-enable the the old design, you need to right click your avatar from inside a problem's page and select "Go back to old design". Now the reason most people can't find this menu item is because it's context sensitive, this menu won't show up on the problems list page, it will only show up when you're on an actual problem's page. 
+
+Leetcode Video Solutions - This Chrome extension overlays a tab with related youtube videos on top of each leetcode problem. You do not need Leetcode Premium to use this. This extension is **free**. It's a MUST if you do leetcode problems because it saves you from having to open youtube and search for the particular problem you're on. It does all of this for you automatically. 
+
+https://chrome.google.com/webstore/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm
+
+
+LeetHub - Automatically integrate your Leetcode submissions to GitHub
 
 https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi
