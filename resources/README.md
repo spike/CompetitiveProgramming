@@ -76,7 +76,7 @@ I've started posting my own Leetcode contests on my youtube channel.
 https://www.youtube.com/c/StephanBranczyk
 
 
-### For Advanced Leetcoders Stuck on a Plateau (myself included)
+### For Advanced Leetcoders Stuck on a Plateau
 
 Self-deception: maybe why you're still grey after practicing every day
 
