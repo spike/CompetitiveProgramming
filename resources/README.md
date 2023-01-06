@@ -112,8 +112,9 @@ Leetcode Video Solutions - This Chrome extension overlays a tab with related you
 https://chrome.google.com/webstore/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm
 
 
+----
 
-***Security Warning:*** I do not know the author of this LeetHub extension below. And this extension requires **read and write** access to all your **public and private repositories** on Github. Be aware of what you're doing. Only install this extension if you have nothing commercially important on Github or set up a different Github account just for this extension. 
-
-LeetHub - Automatically integrate your Leetcode submissions to GitHub (please read my security warning above)
+LeetHub - Automatically integrate your Leetcode submissions to GitHub (**please read my security warning below!!)
 https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi
+
+***Security Warning:*** I do not know the author of this LeetHub extension. And this extension requires **read and write** access to all your **public and private repositories** on Github. Be aware of what you're doing. Only install this extension if you have nothing commercially important on the Github account you're using with it, or set up a different Github account just for this extension. 
