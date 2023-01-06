@@ -114,7 +114,7 @@ https://chrome.google.com/webstore/detail/leetcode-video-solutions/ilnmgkahgjdpk
 
 ----
 
-LeetHub - Automatically integrate your Leetcode submissions to GitHub (**please read my security warning below!!)
+LeetHub - Automatically integrate your Leetcode submissions to GitHub (*please read my ***security warning*** below!!)
 https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi
 
-***Security Warning:*** I do not know the author of this LeetHub extension. And this extension requires **read and write** access to all your **public and private repositories** on Github. Be aware of what you're doing. Only install this extension if you have nothing commercially important on the Github account you're using with it, or set up a different Github account just for this extension. 
+***Security Warning:*** I do not know the author of this LeetHub extension. And this extension requires READ and WRITE access to ALL your public and private repositories on Github. Be aware of what you're doing. Only install this extension if you have nothing commercially important on the Github account you're using with it, or set up a different Github account just for this extension. 
