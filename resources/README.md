@@ -20,6 +20,9 @@ https://www.freecodecamp.org/news/use-spaced-repetition-with-anki-to-learn-to-co
 
 https://www.jackkinsella.ie/articles/janki-method-refined
 
+Comic Book: How to remember anything forever-ish (a 20 minute read)
+https://ncase.me/remember/
+
 https://www.supermemo.com/en/archives1990-2015/articles/20rules (very important)
 
 How to study for exams - Evidence-based revision tips by Ali Abdaal. Ali Abdaal is a medical doctor, not a programmer, but still, his advice is still very useful to programmers. 
@@ -87,8 +90,13 @@ https://www.youtube.com/watch?v=QsIzwrEZG8U
 ### Advanced Topics
 
 Here is a particularly good video by Errichto on youtube on the different nuances of Binary Search. Because even if you know Binary Search pretty well, it can be difficult to implement in different scenarios.
-
 https://www.youtube.com/watch?v=GU7DpgHINWQ
+
+Binary Search - A Different Perspective (this video by mCoding is also pretty insightful)
+https://youtu.be/tgVSkMA8joQ
+
+Recursion for DSA/CP : BEST way to Understand
+https://www.youtube.com/watch?v=0UM_J1jE1dg
 
 Abdul Bari, a Computer Science Professor, on Youtube. He has some of the clearest explanations of complicated algorithms. His materials are definitely not for beginners. Also, his videos are old and the sound is not great, but his explanations are so clear, they're worth listening to.  https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
 
