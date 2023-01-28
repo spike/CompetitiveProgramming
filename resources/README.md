@@ -21,6 +21,7 @@ https://www.freecodecamp.org/news/use-spaced-repetition-with-anki-to-learn-to-co
 https://www.jackkinsella.ie/articles/janki-method-refined
 
 Comic Book: How to remember anything forever-ish (a 20 minute read)
+
 https://ncase.me/remember/
 
 https://www.supermemo.com/en/archives1990-2015/articles/20rules (very important)
