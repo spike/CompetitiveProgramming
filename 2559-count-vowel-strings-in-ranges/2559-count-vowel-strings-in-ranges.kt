@@ -1,6 +1,5 @@
 class Solution {
     fun vowelStrings(words: Array<String>, queries: Array<IntArray>): IntArray {
-        // convert to valid words in IntArray
         val arr = IntArray(words.size) { i ->
             words[i].convert()
         }
@@ -30,18 +29,10 @@ class Solution {
             }
             res[i] = total - prefix[start-1] - postfix[end+1]
         }
-        // I'll try brute force first?
-        // prefix sum and postfix sum - may not be necessary???
         return res
     }
     fun String.convert(): Int {
-        if (this[0].isVowel() && this.last().isVowel()) return 1
-        else return 0
-    }
-    fun Char.isVowel(): Boolean {
-        return  when (this) {
-                    'a','i','o','u','e' -> true
-                    else -> false
-                }
+        return if (this.first() in "aioue" && 
+                   this.last() in "aioue") 1 else 0
     }
 }
