@@ -1,17 +1,16 @@
 class Solution {
     fun searchInsert(nums: IntArray, target: Int): Int {
-        var low = 0
-        var high = nums.lastIndex + 1  
-        var minResult = 0
+        var lo = 0
+        var hi = nums.lastIndex + 1
         var mid = 0
-        while (low < high) {  
-            mid = low + (high - low) / 2
-            if (nums[mid] >= target) {
-                high = mid
-            } else { 
-                low = mid + 1
-            }            
+        while (lo < hi) {
+            mid = lo + (hi-lo)/2
+            if (nums[mid] < target) {
+                lo = mid + 1
+            } else {
+                hi = mid
+            }
         }
-        return low
+        return lo
     }
 }
