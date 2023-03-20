@@ -113,6 +113,10 @@ Paint Tool - Marker for Chrome. This tool is useful to draw diagrams on the Leet
 
 https://chrome.google.com/webstore/detail/paint-tool-marker-for-chr/nadohmjilefnhjobhhlnnddplaklmnnp
 
+This extension tells you the frequency of each question per company for free. Big Ω - Enhance Leetcoding experience
+
+https://chrome.google.com/webstore/detail/big-%CF%89-enhance-leetcoding/hfjfkofmpdgbfpkgnknikojbpljnkfkf/related
+
 
 ***Special Note:*** The two extensions below only work on the old legacy Leetcode design (and I'm not sure when they'll be updated to work with the new design). If you need to re-enable the old design, you need to right click your avatar from inside a problem's page and select "Go back to old design". Now the reason most people can't find this menu item is because it's context sensitive, this menu won't show up on the problems list page, it will only show up when you're on an actual problem's page. 
 
