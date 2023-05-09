@@ -1,5 +1,5 @@
 class Solution {
-fun spiralOrder(matrix: Array<IntArray>): List<Int> {
+    fun spiralOrder(matrix: Array<IntArray>): List<Int> {
         if (matrix.isEmpty() || matrix[0].isEmpty()) return emptyList()
 
         val result = arrayListOf<Int>()
@@ -14,7 +14,7 @@ fun spiralOrder(matrix: Array<IntArray>): List<Int> {
                 result.add(matrix[rowBegin][i])
             rowBegin++
 
-            for (i in rowBegin..rowEnd)
+            for (i in rowBegin..rowEnd) 
                 result.add(matrix[i][columnEnd])
             columnEnd--
 
