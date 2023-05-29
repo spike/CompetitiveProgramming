@@ -1,9 +1,6 @@
 class ParkingSystem(big: Int, medium: Int, small: Int) {
     val car = arrayOf(0, big, medium, small) 
-    
-    fun addCar(carType: Int): Boolean {
-        return (car[carType]-- > 0)
-    }
+    fun addCar(carType: Int): Boolean = (car[carType]-- > 0)
 }
 
 /**
