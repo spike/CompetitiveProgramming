@@ -1,13 +1,12 @@
-class ParkingSystem(big: Int, medium: Int, small: Int) {
-    val car = arrayOf(0, big, medium, small) 
-    
-    fun addCar(carType: Int): Boolean {
-        return (car[carType]-- > 0)
-    }
-}
+class ParkingSystem:
+    def __init__(self, big: int, medium: int, small: int):
+        self.a = [0, big, medium, small]
 
-/**
- * Your ParkingSystem object will be instantiated and called as such:
- * var obj = ParkingSystem(big, medium, small)
- * var param_1 = obj.addCar(carType)
- */
+    def addCar(self, carType: int) -> bool:
+        self.a[carType] -= 1
+        return self.a[carType] >= 0
+            
+
+# Your ParkingSystem object will be instantiated and called as such:
+# obj = ParkingSystem(big, medium, small)
+# param_1 = obj.addCar(carType)
