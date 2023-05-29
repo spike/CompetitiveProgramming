@@ -1,10 +1,8 @@
-class ParkingSystem(var big: Int, var medium: Int, var small: Int) {
+class ParkingSystem(big: Int, medium: Int, small: Int) {
+    val car = arrayOf(0, big, medium, small) 
+    
     fun addCar(carType: Int): Boolean {
-        return when (carType) {
-                    1 -> if (big > 0) { big--; true } else false 
-                    2 -> if (medium > 0) { medium--; true } else false 
-                    else -> if (small > 0) { small--; true } else false 
-                }
+        return (car[carType]-- > 0)
     }
 }
 
