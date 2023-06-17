@@ -92,7 +92,7 @@ https://www.youtube.com/watch?v=QsIzwrEZG8U
 Binary Search - A simple explanation by mCoding
 https://youtu.be/tgVSkMA8joQ
 
-Bisection method for finding square root (bisection search means the same as binary search)
+Bisection method lecture for finding square root (bisection search means the same as binary search)
 https://www.youtube.com/watch?v=mzQFGOvH-mk
 
 Video by Errichto on youtube on the different nuances of Binary Search. 
@@ -116,7 +116,8 @@ Paint Tool - Marker for Chrome. This tool is useful to draw diagrams on the Leet
 https://chrome.google.com/webstore/detail/paint-tool-marker-for-chr/nadohmjilefnhjobhhlnnddplaklmnnp
 
 Leetcode explained Chrome Extension (similar as Video Solutions, but works with new Leetcode UI)
-The list of channels is curated. For that reason, it has less videos than video solutions, but usually of higher quality.
+The list of channels is curated. For that reason, it has less videos than video solutions, but usually of higher quality. Also, it's adding some AI features for analyzing your code.
+
 https://chrome.google.com/webstore/detail/leetcode-explained/cofoinjfjcpgcjiinjhcpomcjoalijbe
 
 ***Special Note:*** The two extensions below only work on the old legacy Leetcode design (and I'm not sure when they'll be updated to work with the new design). If you need to re-enable the old design, you need to right click your avatar from inside a problem's page and select "Go back to old design". Now the reason most people can't find this menu item is because it's context sensitive, this menu won't show up on the problems list page, it will only show up when you're on an actual problem's page. 
