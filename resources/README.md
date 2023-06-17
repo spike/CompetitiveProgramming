@@ -89,11 +89,14 @@ https://www.youtube.com/watch?v=QsIzwrEZG8U
 
 ### Advanced Topics
 
-Here is a particularly good video by Errichto on youtube on the different nuances of Binary Search. Because even if you know Binary Search pretty well, it can be difficult to implement in different scenarios.
-https://www.youtube.com/watch?v=GU7DpgHINWQ
-
-Binary Search - A Different Perspective (this video by mCoding is also pretty insightful)
+Binary Search - A simple explanation by mCoding
 https://youtu.be/tgVSkMA8joQ
+
+Bisection method for finding square root (bisection search means the same as binary search)
+https://www.youtube.com/watch?v=mzQFGOvH-mk
+
+Video by Errichto on youtube on the different nuances of Binary Search. 
+https://www.youtube.com/watch?v=GU7DpgHINWQ
 
 Recursion for DSA/CP : BEST way to Understand
 https://www.youtube.com/watch?v=0UM_J1jE1dg
