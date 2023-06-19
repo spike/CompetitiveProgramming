@@ -102,7 +102,7 @@ It contains a variety of difficult problems. It also has a test suite you can gi
 
 And unlike "Cracking the Code Interview", the EPI book is much more reader-friendly, because it gives you the solution right after each problem, so you don't have to flip the book to the end each time you're looking for the official solution or the pattern. 
 
-### Tools I use for Our Algorithms Meetup
+### Chrome extensions I use for Our Algorithms Meetup
 
 Paint Tool - Marker for Chrome. This tool is useful to draw diagrams on the Leetcode page itself. 
 
