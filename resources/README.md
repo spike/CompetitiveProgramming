@@ -85,10 +85,10 @@ https://www.youtube.com/results?search_query=deliberate+practice
 
 The concept of "Random Practice". Random practice is the best way you're going to train yourself at pattern recognition. This is why you should be doing our meetup homework, the daily Leetcode problems, and/or the Leetcode weekly contests.
 
-"The Feynman Technique"
+"The Feynman Technique": 
 https://www.youtube.com/results?search_query=feynman+technique+in-depth
 
-"Incremental Reading" can be very useful for the harder materials that can put you to sleep otherwise
+"Incremental Reading" can be very useful for the harder materials that can put you to sleep otherwise:
 
 https://www.youtube.com/watch?v=oNCLLNZEtz0
 
