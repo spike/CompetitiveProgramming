@@ -71,7 +71,7 @@ I also have two books on problem solving, but this video does a pretty good job 
 
 ### Leetcode Contests
 
-Once you've recently solved ~50 problems on your own, I'd recommend you try to do the weekly Leetcode contests. The time pressure helps. And the randomness of the problems will help with your pattern-recognition. They're either at 6:30PM or 7:30PM on Saturdays (Pacific Standard Time).  
+Once you've recently solved ~50 problems on your own, I'd recommend you try to do the weekly Leetcode contests. The time pressure helps. And the randomness of the problems will help with your pattern-recognition. They're either at 6:30PM or 7:30PM on Saturdays (Pacific Standard Time). If you're on a different time zone, they also have biweekly contests at 6:30AM or 7:30AM (depending on daylight savings) every other Saturday morning. 
 
 https://leetcode.com/contest/
 
