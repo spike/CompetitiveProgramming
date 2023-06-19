@@ -87,19 +87,20 @@ https://codeforces.com/blog/entry/98621
 
 https://www.youtube.com/watch?v=QsIzwrEZG8U
 
-### Advanced Topics
+### Binary Search (or Bisection Search)
 
 Binary Search - A simple explanation by mCoding
-https://youtu.be/tgVSkMA8joQ
+https://youtu.be/tgVSkMA8joQ (as much as I love that approach, you'll need to review the Leetcode Explore card below as well)
 
 Binary Search Leetcode Explore Card (95% of that explore card is available for free without a premium subscription)
 https://leetcode.com/explore/learn/card/binary-search/
 
-Bisection method lecture for finding square root (bisection search means the same as binary search)
-https://www.youtube.com/watch?v=mzQFGOvH-mk
-
 Video by Errichto on youtube on the different nuances of Binary Search. 
 https://www.youtube.com/watch?v=GU7DpgHINWQ
+
+Bisection method lecture for finding square root. https://www.youtube.com/watch?v=mzQFGOvH-mk Bisection search means the same as binary search. Personally, I like to find different videos/resources that explain the same topic(s). I recommend you do the same. I find it helps consolidate what I've learned. And sometimes, it helps me grasp a detail I might have missed. 
+
+### Advanced Topics
 
 Recursion for DSA/CP : BEST way to Understand
 https://www.youtube.com/watch?v=0UM_J1jE1dg
