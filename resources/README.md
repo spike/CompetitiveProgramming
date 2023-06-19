@@ -139,3 +139,12 @@ They have good prepared problems, but they only have 36 problems.
 
 Also, you can use our [meetup](https://www.meetup.com/bayareaalgorithms) discord server to find mock interview partners. 
 
+### Running your tests locally
+
+Here is good universal approach for writing your own random tests for Leetcode problems.
+
+https://www.freecodecamp.org/news/debugging-like-competitive-programmers/
+
+Also if you follow one of the EPI books, they have a free test suite you can download from their site.  
+
+https://elementsofprogramminginterviews.com/
