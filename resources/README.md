@@ -141,7 +141,7 @@ Also, you can use our [meetup](https://www.meetup.com/bayareaalgorithms) discord
 
 ### Running your tests locally
 
-Here is good universal approach for generating your own tests quickly for Leetcode problems.
+Here is good universal approach for generating your own tests quickly for Leetcode/CP problems.
 
 https://www.freecodecamp.org/news/debugging-like-competitive-programmers/
 
