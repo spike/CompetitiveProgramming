@@ -54,8 +54,6 @@ https://www.youtube.com/watch?v=QvuQH4_05LI
 
 ### Learning Strategies
 
-Also, I recommend you use a mix of learning strategies. 
-
 The concepts of "Deliberate Practice" and self-reflection from other disciplines/sports is very useful for Leetcode
 https://www.youtube.com/results?search_query=deliberate+practice
 
