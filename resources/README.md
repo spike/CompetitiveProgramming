@@ -34,7 +34,7 @@ Here is a guy who credits spaced repetition for earning him a Ph D. in Math
 https://www.youtube.com/watch?v=_RdjsVngZz8
 
 ### Data Structures and Algorithms
-If you're new to Data Structures and Algorithms, or if you need to review, I recommend you get one of these two books. Either one should do. And technically, you don't need a book, because everything can be found online for free, but still, if you prefer to learn from dead tree books, and don't already own one, get yourself one of these two:
+If you're new to Data Structures and Algorithms, or if you need to review, I recommend you get one of these two books. Either one should do. And technically, you don't need a book, because everything can be found online for free, but still, if you prefer to learn from dead tree books, and don't already own one on DSAs, get yourself one of these two:
 
 Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/  (this book doesn't cover as much material as the second book below)
 
