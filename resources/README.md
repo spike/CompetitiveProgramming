@@ -27,13 +27,7 @@ https://www.supermemo.com/en/archives1990-2015/articles/20rules (very important!
 
 Recall vs. Recognition memory (5 min video): https://www.youtube.com/watch?v=_q6jgTIQIx8 (knowing the difference between Recall memory and Recognition memory is also very important!! I've seen dozens of people completely fail at using flashcards or at using spaced repetition software, precisely because they didn't understand the implications of this very concept! This video is less than 5 minutes. There is really no excuse not to watch it. Also, be sure to take the tests given.)
 
-How to study for exams - Evidence-based revision tips by Ali Abdaal. Ali Abdaal is a medical doctor, not a programmer, but still, his advice is still very useful to programmers. 
-
-https://www.youtube.com/watch?v=ukLnPbIffxE 
-
-How to Study for Exams - Spaced Repetition | Evidence-based revision tips by Ali Abdaal 
-
-https://www.youtube.com/watch?v=Z-zNHHpXoMM 
+How to study for exams - Evidence-based revision tips by Ali Abdaal. Ali Abdaal is a medical doctor, not a programmer, but still, his advice is still very useful to programmers. https://www.youtube.com/watch?v=ukLnPbIffxE How to Study for Exams - Spaced Repetition | Evidence-based revision tips by Ali Abdaal https://www.youtube.com/watch?v=Z-zNHHpXoMM 
 
 Here is a guy who credits spaced repetition for earning him a Ph D. in Math
 
