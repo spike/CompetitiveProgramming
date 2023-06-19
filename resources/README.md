@@ -23,7 +23,7 @@ Interactive Comic: How to remember anything forever-ish (a 20 minute read)
 
 https://ncase.me/remember/
 
-https://www.supermemo.com/en/archives1990-2015/articles/20rules (very important)
+https://www.supermemo.com/en/archives1990-2015/articles/20rules (very important!!!!!)
 
 How to study for exams - Evidence-based revision tips by Ali Abdaal. Ali Abdaal is a medical doctor, not a programmer, but still, his advice is still very useful to programmers. 
 
