@@ -92,6 +92,9 @@ https://www.youtube.com/watch?v=QsIzwrEZG8U
 Binary Search - A simple explanation by mCoding
 https://youtu.be/tgVSkMA8joQ
 
+Binary Search Leetcode Explore Card (95% of that explore card is available for free without a premium subscription)
+https://leetcode.com/explore/learn/card/binary-search/
+
 Bisection method lecture for finding square root (bisection search means the same as binary search)
 https://www.youtube.com/watch?v=mzQFGOvH-mk
 
