@@ -46,6 +46,12 @@ A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up
 
 https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/
 
+### General Strategies for Problem Solving
+
+Tips to be a better problem solver by 3Blue1Brown
+
+https://www.youtube.com/watch?v=QvuQH4_05LI
+
 ### Key Learning Strategies
 
 Also, I recommend you use a mix of learning strategies. 
@@ -60,14 +66,6 @@ https://www.youtube.com/results?search_query=feynman+technique+in-depth
 
 "Incremental Reading" can be very useful for the harder materials.
 https://www.youtube.com/watch?v=oNCLLNZEtz0
-
-### General Strategies for Problem Solving
-
-Tips to be a better problem solver by 3Blue1Brown
-
-https://www.youtube.com/watch?v=QvuQH4_05LI
-
-I also have two books on problem solving, but this video does a pretty good job of summarizing what's in those books as well. 
 
 ### Leetcode Contests
 
