@@ -134,7 +134,7 @@ I recommend you do the free peer-to-peer interviews on https://pramp.com
 
 They have good prepared problems, but they only have 36 problems. 
 
-Also, you can use our [meetup](https://www.meetup.com/bayareaalgorithms) discord server to find mock interview partners. 
+Also, you can use our [meetup](https://www.meetup.com/bayareaalgorithms) discord server to find mock interview partners or study partners. 
 
 ### Running your tests locally
 
