@@ -145,6 +145,6 @@ Here is good universal approach for generating your own tests quickly for Leetco
 
 https://www.freecodecamp.org/news/debugging-like-competitive-programmers/
 
-Also if you follow one of the EPI books, they have a free test suite you can download from their site.  
+Also if you follow one of the EPI books, they have a free test suite and stub code you can download from their site.  
 
 https://elementsofprogramminginterviews.com/
