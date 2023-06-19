@@ -45,7 +45,7 @@ https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/168050
 ### Binary Search (or Bisection Search)
 
 Binary Search - A simple explanation by mCoding
-https://youtu.be/tgVSkMA8joQ (as much as I love that approach and that video, you'll need to review the Leetcode Explore card below to find a better break down of the different Binary Search patterns)
+https://youtu.be/tgVSkMA8joQ (as much as I love that video and that approach, you'll need to review the Leetcode Explore card below to find a better break down of the different Binary Search patterns)
 
 Binary Search Leetcode Explore Card (95% of that explore card is available for free without a premium subscription)
 https://leetcode.com/explore/learn/card/binary-search/
