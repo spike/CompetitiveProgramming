@@ -88,7 +88,7 @@ The concept of "Random Practice". Random practice is the best way you're going t
 "The Feynman Technique"
 https://www.youtube.com/results?search_query=feynman+technique+in-depth
 
-"Incremental Reading" can be very useful for the harder materials.
+"Incremental Reading" can be very useful for the harder materials that can put you to sleep otherwise.
 https://www.youtube.com/watch?v=oNCLLNZEtz0
 
 ### Leetcode Contests
