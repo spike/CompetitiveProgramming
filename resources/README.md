@@ -52,7 +52,7 @@ Tips to be a better problem solver by 3Blue1Brown
 
 https://www.youtube.com/watch?v=QvuQH4_05LI
 
-### Key Learning Strategies
+### Learning Strategies
 
 Also, I recommend you use a mix of learning strategies. 
 
