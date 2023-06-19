@@ -78,15 +78,6 @@ https://leetcode.com/contest/
 I've started posting my own Leetcode contests on my youtube channel. 
 https://www.youtube.com/c/StephanBranczyk
 
-
-### For Advanced Leetcoders Stuck on a Plateau
-
-Self-deception: maybe why you're still grey after practicing every day
-
-https://codeforces.com/blog/entry/98621
-
-https://www.youtube.com/watch?v=QsIzwrEZG8U
-
 ### Binary Search (or Bisection Search)
 
 Binary Search - A simple explanation by mCoding
@@ -131,9 +122,25 @@ Leetcode Video Solutions - This Chrome extension overlays a tab with related you
 https://chrome.google.com/webstore/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm
 
 
-----
-
 LeetHub - Automatically integrate your Leetcode submissions to GitHub (*please read my ***security warning*** below!!)
 https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi
 
 ***Security Warning:*** I do not know the author of this LeetHub extension. And this extension requires READ and WRITE access to ALL your public and private repositories on Github. Be aware of what you're doing. Only install this extension if you have nothing critically important on the Github account you're using, or set up a different Github account just for this extension. 
+
+
+### For Advanced Leetcoders Stuck on a Plateau
+
+Self-deception: maybe why you're still grey after practicing every day
+
+https://codeforces.com/blog/entry/98621
+
+https://www.youtube.com/watch?v=QsIzwrEZG8U
+
+### For Mock Interviews
+
+I recommend you do the free peer-to-peer interviews on https://pramp.com 
+
+They have good prepared problems, but they only have 36 problems. 
+
+Also, you can use our [meetup](https://www.meetup.com/bayareaalgorithms) discord server to find mock interview partners. 
+
