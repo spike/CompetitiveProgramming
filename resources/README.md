@@ -11,7 +11,7 @@ Edbert Chan on Youtube. He has a "You suck at Coding Interviews" video series: h
 
 In our meetup, we all use different programming languages, but if you don't know where to start, I'd suggest you start with [Python](https://wiki.python.org/moin/BeginnersGuide) and do most the problems on this site: https://pypup.com/
 
-If you want to do well in Leetcode, you really need to master the standard syntax of your chosen programming language, and for that, I recommend you use spaced repetition. Knowing a language well is a prerequisite to Leetcode.
+If you want to do well in Leetcode, you really need to master the standard syntax of your chosen programming language, and for that, I recommend you use active recall and spaced repetition. Knowing a language well is a prerequisite to Leetcode.
 
 But please keep an open mind. I'm not saying you should memorize everything. You should definitely not memorize everything.  But if you catch yourself googling the same standard syntax over and over again, I think it may be worth memorizing and make it part of your muscle memory. Basically, think of it like driving a car or riding a bicycle, the more you can rely on your muscle memory for low-level mechanical tasks, the less you'll need to interrupt your flow and the more you'll free up your brain to focus on more important things. 
 
