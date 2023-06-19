@@ -81,7 +81,7 @@ https://www.youtube.com/c/StephanBranczyk
 ### Binary Search (or Bisection Search)
 
 Binary Search - A simple explanation by mCoding
-https://youtu.be/tgVSkMA8joQ (as much as I love that approach, you'll need to review the Leetcode Explore card below as well)
+https://youtu.be/tgVSkMA8joQ (as much as I love that approach, you'll need to review the Leetcode Explore card below to find a better break down of the different patterns)
 
 Binary Search Leetcode Explore Card (95% of that explore card is available for free without a premium subscription)
 https://leetcode.com/explore/learn/card/binary-search/
