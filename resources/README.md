@@ -55,6 +55,9 @@ https://www.youtube.com/watch?v=GU7DpgHINWQ
 
 Bisection method lecture for finding square root. https://www.youtube.com/watch?v=mzQFGOvH-mk Bisection search means the same as binary search. Personally, I like to find different approaches/videos/resources that explain the same topic(s). I recommend you do the same. I find it helps consolidate what I've learned. And sometimes, it helps me grasp a detail I might have missed. 
 
+Invariant Binary Search by Code Badger (I still need to experiment with this approach, but if what that youtuber is saying holds true, then I'll learn this method instead)
+https://www.youtube.com/watch?v=FhonEHz2raw
+
 ### Other Advanced DSA Topics
 
 Recursion for DSA/CP : BEST way to Understand
