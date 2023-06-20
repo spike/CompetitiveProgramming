@@ -44,8 +44,8 @@ https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/168050
 
 ### Binary Search (or Bisection Search)
 
-Binary Search - A simple explanation by mCoding
-https://youtu.be/tgVSkMA8joQ (as much as I love that video and that approach, you'll need to review the Leetcode Explore card below to find a better break down of the different Binary Search patterns)
+Invariant Binary Search by Code Badger (please use this particular competitive programming approach to Binary Searches)
+https://www.youtube.com/watch?v=FhonEHz2raw **This is now my favorite Binary Search approach by far!**
 
 Binary Search Leetcode Explore Card (95% of that explore card is available for free without a premium subscription). It includes a number of Leetcode problems you can practice on for each pattern. 
 https://leetcode.com/explore/learn/card/binary-search/
@@ -55,8 +55,7 @@ https://www.youtube.com/watch?v=GU7DpgHINWQ
 
 Bisection method lecture for finding square root. https://www.youtube.com/watch?v=mzQFGOvH-mk Bisection search means the same as binary search. Personally, I like to find different approaches/videos/resources that explain the same topic(s). I recommend you do the same. I find it helps consolidate what I've learned. And sometimes, it helps me grasp a detail I might have missed. 
 
-Invariant Binary Search by Code Badger (I still need to experiment with this approach, but if what that youtuber is saying holds true, then I'll learn this method instead)
-https://www.youtube.com/watch?v=FhonEHz2raw
+Binary Search by mCoding https://youtu.be/tgVSkMA8joQ
 
 ### Other Advanced DSA Topics
 
