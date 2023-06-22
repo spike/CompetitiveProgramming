@@ -48,15 +48,11 @@ Invariant Binary Search by Code Badger **This is now my favorite Binary Search a
 
 https://www.youtube.com/watch?v=FhonEHz2raw 
 
-Binary Search Leetcode Explore Card (95% of that explore card is available for free without a premium subscription). It includes a number of Leetcode problems you can practice on for each pattern. 
+Binary Search Leetcode Explore Card
 https://leetcode.com/explore/learn/card/binary-search/
 
 Video by Errichto on youtube on the different nuances of Binary Search. 
 https://www.youtube.com/watch?v=GU7DpgHINWQ
-
-Bisection method lecture for finding square root. https://www.youtube.com/watch?v=mzQFGOvH-mk Bisection search means the same as binary search. Personally, I like to find different approaches/videos/resources that explain the same topic(s). I recommend you do the same. I find it helps consolidate what I've learned. And sometimes, it helps me grasp a detail I might have missed. 
-
-Binary Search by mCoding https://youtu.be/tgVSkMA8joQ
 
 ### Other Advanced DSA Topics
 
