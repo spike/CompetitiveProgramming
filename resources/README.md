@@ -54,6 +54,10 @@ https://leetcode.com/explore/learn/card/binary-search/
 Video by Errichto on youtube on the different nuances of Binary Search. 
 https://www.youtube.com/watch?v=GU7DpgHINWQ
 
+Binary Search - A Different Perspective | Python Algorithms
+https://www.youtube.com/watch?v=tgVSkMA8joQ
+(If you're using Python, this shows you how to understand bisect_left and bisect_right)
+
 ### Other Advanced DSA Topics
 
 Recursion for DSA/CP : BEST way to Understand
