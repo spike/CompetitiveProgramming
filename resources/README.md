@@ -44,7 +44,7 @@ https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/168050
 
 ### Binary Search (or Bisection Search)
 
-Invariant Binary Search by Code Badger. **This is one of my favorite Binary Search approaches!**
+Invariant Binary Search by Code Badger. This is one of my favorite Binary Search approaches.
 
 https://www.youtube.com/watch?v=FhonEHz2raw 
 
