@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=FhonEHz2raw
 Binary Search Leetcode Explore Card
 https://leetcode.com/explore/learn/card/binary-search/
 
-Video by Errichto on youtube on the different nuances of Binary Search. 
+Video by Errichto on the different nuances of Binary Search. 
 https://www.youtube.com/watch?v=GU7DpgHINWQ
 
 Binary Search - A Different Perspective | Python Algorithms by mCoding 
