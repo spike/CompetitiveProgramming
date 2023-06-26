@@ -14,14 +14,16 @@ class Solution:
         return maxStr
     
     def isNice(self, s: str) -> bool:
-        u = [False]*32
-        l = [False]*32
+        u = [False]*26
+        l = [False]*26
         for c in s:
             if c.isupper():
-                u[ord(c)%32] = True
+                u[ord(c)%32-1] = True
+                # ascii table is 1-indexed every 32 bits
+                # https://www.asciitable.com/
             else:
-                l[ord(c)%32] = True 
-        for i in range(32):
+                l[ord(c)%32-1] = True 
+        for i in range(26):
             if u[i] != l[i]:
                  return False
         return True
