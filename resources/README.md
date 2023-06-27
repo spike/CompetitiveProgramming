@@ -98,9 +98,8 @@ https://www.youtube.com/c/StephanBranczyk
 
 ### Chrome extensions I use for Our Algorithms Meetup
 
-Paint Tool - Marker for Chrome. This tool is useful to draw diagrams on the Leetcode page itself. 
+Paint Tool - Marker for Chrome. (No longer using. I've just been notified by the Chrome browser that this tool contains malware. I'll have to find a replacement). 
 
-https://chrome.google.com/webstore/detail/paint-tool-marker-for-chr/nadohmjilefnhjobhhlnnddplaklmnnp
 
 Leetcode explained Chrome Extension (similar as Video Solutions, but works with new Leetcode UI). The list of channels is curated, so it has many fewer videos than the Video Solutions extension. Also, it's adding some AI features for analyzing your code.
 
