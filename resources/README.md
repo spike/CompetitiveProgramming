@@ -58,6 +58,9 @@ Binary Search - A Different Perspective | Python Algorithms by mCoding
 https://www.youtube.com/watch?v=tgVSkMA8joQ
 (If you're using Python, this shows you how to understand bisect_left and bisect_right)
 
+Here is more information on loop invariants and proving the correctness of tricky code:
+https://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/lec_loopinv/
+
 ### Other Advanced DSA Topics
 
 Recursion for DSA/CP : BEST way to Understand
