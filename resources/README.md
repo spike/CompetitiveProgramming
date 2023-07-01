@@ -101,7 +101,7 @@ https://www.youtube.com/c/StephanBranczyk
 
 ### "Do you need to know math?" 
 
-"No, you don't." At least, that's what most people say. And while I agree this is what I'd say to Leetcode beginners and people with a short-time frames for interviews.
+"No, you don't." At least, that's what most people say. And while I agree this is what I say to Leetcode beginners and people with a short-time frames for interviews.
 
 I can't help but find people like this [guy](https://www.youtube.com/watch?v=g2uqg5H2Esg). He went from beginner to candidate master on codeforces in 11 months. Now, he didn't know any math, but at one point he was stagnating in his rating, so he made the conscious decision to grind math problems, along side codeforces problems, and according to him at least, that propelled him past everyone else. 
 
