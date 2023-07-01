@@ -103,11 +103,11 @@ https://www.youtube.com/c/StephanBranczyk
 
 "No, you don't to know math." At least, that's what most people say. And while I agree this is what I'd say to Leetcode beginners and people with a short-time frames for interviews.
 
-I can't help but find people like this (guy)[https://www.youtube.com/watch?v=g2uqg5H2Esg]. He went from beginner to candidate master on codeforces in 11 months. Now, he didn't know any math, but at one point he was stagnating in his rating, so he made the conscious decision to grind math problems, along side codeforces problems, and according to him at least, that propelled him past everyone else. 
+I can't help but find people like this [guy](https://www.youtube.com/watch?v=g2uqg5H2Esg). He went from beginner to candidate master on codeforces in 11 months. Now, he didn't know any math, but at one point he was stagnating in his rating, so he made the conscious decision to grind math problems, along side codeforces problems, and according to him at least, that propelled him past everyone else. 
 
 And while codeforces is not like leetcode, I've noticed a similar pattern with Leetcode. Usually, beginners with math backgrounds have a much easier time tackling hard problems and moving up through the ranks on Leetcode.
 
-So in my case at least, I've started studying math olympiad videos like (these)[https://www.youtube.com/playlist?list=PLTDTcDkWcXuyK1eBpu8yCAqxFe06LDeLj], and I'm looking for some relevant math problem sets to work on, alongside Leetcode. If any one has suggestions for some good problem sets online, please DM me.
+So in my case at least, I've started studying math olympiad videos like [these](https://www.youtube.com/playlist?list=PLTDTcDkWcXuyK1eBpu8yCAqxFe06LDeLj), and I'm looking for some relevant math problem sets to work on, alongside Leetcode. If any one has suggestions for some good problem sets online, please DM me.
 
 ### Tools I use for Our Algorithms Meetup
 
