@@ -15,6 +15,8 @@ If you want to do well in Leetcode, you really need to master the standard synta
 
 But please keep an open mind. I'm not saying you should memorize everything. You should definitely not memorize everything.  But if you catch yourself googling the same standard syntax over and over again, I think it may be worth memorizing and make it part of your muscle memory. Basically, think of it like driving a car or riding a bicycle, the more you can rely on your muscle memory for low-level mechanical tasks (the ones you do most frequently), the less you'll need to interrupt your flow and the more you'll free up your brain to focus on more important things. 
 
+The same thing for important concepts. The more you can internalize important key concepts, to the point of automaticity, the more you can devote your braing power to other things.  
+
 https://www.freecodecamp.org/news/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c/
 
 https://www.jackkinsella.ie/articles/janki-method-refined
