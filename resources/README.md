@@ -113,7 +113,10 @@ So in my case at least, I've started studying math olympiad videos like [these](
 
 ### Tools I use for Our Algorithms Meetup
 
-Xournal and a cheap Huion pen tablet (H1060P) along with a MacBook Pro. (No longer using "Paint Tool - Marker for Chrome" because it contained malware according to Chrome). 
+Xournal and a cheap Huion pen tablet (H1060P) along with a MacBook Pro. 
+
+Now using "Web Paint Tool" Chrome Browser [extension](https://chrome.google.com/webstore/detail/web-paint-tool-draw-onlin/iklgljbighkgbjoecoddejooldolenbj)
+(No longer using "Paint Tool - Marker for Chrome" because it contained malware according to Chrome). 
 
 Leetcode explained Chrome Extension (similar as Video Solutions, but works with new Leetcode UI). The list of channels is curated, so it has many fewer videos than the Video Solutions extension. Also, it's adding some AI features for analyzing your code.
 
