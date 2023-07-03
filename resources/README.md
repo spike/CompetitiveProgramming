@@ -46,12 +46,12 @@ https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/168050
 
 ### Binary Search (or Bisection Search)
 
-Invariant Binary Search by Code Badger. When applicable, this is one of my favorite Binary Search approaches.
-
-https://www.youtube.com/watch?v=FhonEHz2raw 
-
 Binary Search Leetcode Explore Card
 https://leetcode.com/explore/learn/card/binary-search/
+
+My most favorite technique: "Invariant Binary Search" by Code Badger. Don't let this video below scare you. Watch the entire video once. It should start making sense once you've watched the entire thing. 
+
+https://www.youtube.com/watch?v=FhonEHz2raw 
 
 Video by Errichto on the different nuances of Binary Search. 
 https://www.youtube.com/watch?v=GU7DpgHINWQ
