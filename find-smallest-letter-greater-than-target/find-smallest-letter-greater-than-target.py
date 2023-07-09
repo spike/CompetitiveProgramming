@@ -7,5 +7,4 @@ class Solution:
                 lo = m
             else:
                 hi = m
-        print(lo, hi)
         return letters[hi] if hi != len(letters) else letters[0]
