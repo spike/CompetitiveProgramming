@@ -4,11 +4,11 @@ class Solution {
         for (i in 0 until k) {
             total += nums[i]
         }
-        var result: Double = total / k.toDouble()
+        var result: Double = total / k
         for (i in k..nums.lastIndex) {
             total += nums[i] - nums[i-k]
-            result = maxOf(result, total/k)
+            result = maxOf(total / k, result)
         }
-        return result   
+        return result
     }
 }
