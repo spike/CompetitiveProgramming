@@ -14,5 +14,8 @@ var search = function(nums, target) {
           hi = mid;
         }
     }
-    if (nums[lo] == target) return lo; else return -1;
+    if (lo >= 0 && lo < nums.length && nums[lo] == target) 
+        return lo;
+    else 
+        return -1;
 };
