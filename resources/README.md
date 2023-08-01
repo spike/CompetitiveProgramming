@@ -113,6 +113,8 @@ And while codeforces is not like leetcode, I've noticed a similar pattern with L
 
 So in my case at least, I've started studying math-related videos such as these: https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=UULPGYSfZbPp3BiAFs531PBY7g 
 
+I'd strongly recommend everyone do the same. If nothing else, just start watching that video series. 
+
 ### Tools I use for Our Algorithms Meetup
 
 Xournal++ and a cheap Huion pen tablet (H1060P) along with a MacBook Pro. 
