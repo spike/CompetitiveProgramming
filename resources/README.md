@@ -111,11 +111,13 @@ I can't help but find people like this [guy](https://www.youtube.com/watch?v=g2u
 
 And while codeforces is not like leetcode, I've noticed a similar pattern with Leetcode. Usually, beginners with math backgrounds have a much easier time tackling hard problems and moving up through the ranks on Leetcode.
 
-So in my case at least, I've started studying math olympiad videos like [these](https://www.youtube.com/playlist?list=PLTDTcDkWcXuyK1eBpu8yCAqxFe06LDeLj), and I'm looking for some relevant math problem sets to work on, alongside Leetcode. If any one has suggestions for some good problem sets online, please DM me.
+So in my case at least, I've started studying math-related videos such as these: https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=UULPGYSfZbPp3BiAFs531PBY7g 
 
 ### Tools I use for Our Algorithms Meetup
 
 Xournal++ and a cheap Huion pen tablet (H1060P) along with a MacBook Pro. 
+
+OBS - overlay tablet notes with my video https://www.youtube.com/watch?v=9YVEKI9NUIQ
 
 "Web Paint Tool" Chrome Browser [extension](https://chrome.google.com/webstore/detail/web-paint-tool-draw-onlin/iklgljbighkgbjoecoddejooldolenbj)
 (No longer using "Paint Tool - Marker for Chrome" because it contained malware according to Chrome). 
