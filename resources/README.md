@@ -21,10 +21,6 @@ https://www.freecodecamp.org/news/use-spaced-repetition-with-anki-to-learn-to-co
 
 https://www.jackkinsella.ie/articles/janki-method-refined
 
-Interactive Comic: How to remember anything forever-ish (a 20 minute read)
-
-https://ncase.me/remember/
-
 https://www.supermemo.com/en/archives1990-2015/articles/20rules (very important!)
 
 Recall vs. Recognition memory (5 min video): https://www.youtube.com/watch?v=_q6jgTIQIx8 (knowing the difference between Recall memory and Recognition memory is also very important!! I've seen dozens of people completely fail at using flashcards or at using spaced repetition software, precisely because they didn't understand the implications of this very concept! This video is less than 5 minutes. There is really no excuse not to watch it. Also, be sure to take the tests given.)
