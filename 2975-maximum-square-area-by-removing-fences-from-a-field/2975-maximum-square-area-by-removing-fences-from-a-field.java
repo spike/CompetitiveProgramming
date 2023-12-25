@@ -2,7 +2,7 @@ class Solution {
     public int maximizeSquareArea(int m, int n, int[] hFences, int[] vFences) {
 
     Arrays.sort(hFences); //mlogn
-	Arrays.sort(vFences); //nlogn
+    Arrays.sort(vFences); //nlogn
 
 	List<Integer> hFencesList = new ArrayList<>();//m space
 	for(int h : hFences) hFencesList.add(h);		
@@ -17,7 +17,7 @@ class Solution {
 	Set<Integer> matcherSet = new HashSet<>(); //m^2
 	for(int i=0;i<hFencesList.size();i++) {//m^2
 		for(int j=i+1;j<hFencesList.size();j++) {
-			matcherSet.add(hFencesList.get(j)-hFencesList.get(i));
+			matcherSet.add(Math.abs(hFencesList.get(j)-hFencesList.get(i)));
 		}
     }
 	
