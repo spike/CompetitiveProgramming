@@ -1,4 +1,4 @@
-use std::cmp;
+use std::cmp::max;
 
 impl Solution {
     pub fn maximum_wealth(accounts: Vec<Vec<i32>>) -> i32 {
@@ -9,7 +9,7 @@ impl Solution {
             for money in customer {
                 total += money;
             }
-            richest = cmp::max(total, richest);
+            richest = max(total, richest);
         }
         richest
     }
