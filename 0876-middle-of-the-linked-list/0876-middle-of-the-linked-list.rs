@@ -15,12 +15,13 @@
 //   }
 // }
 impl Solution {
-    pub fn middle_node(mut head: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
-        let mut curr = head.clone();
-        while curr.is_some() && curr.as_ref()?.next.is_some() {
-            curr = curr?.next?.next;
-            head = head?.next;
+    pub fn middle_node(mut slow: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
+        let mut fast = slow.clone();
+        
+        while fast.is_some() && fast.as_ref()?.next.is_some() {
+            fast = fast?.next?.next;
+            slow = slow?.next;
         }
-        head
+        slow
     }
 }
