@@ -19,7 +19,7 @@ The same thing for important concepts. The more you can internalize important ke
 
 https://www.freecodecamp.org/news/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c/
 
-https://www.jackkinsella.ie/articles/janki-method-refined
+~~~https://www.jackkinsella.ie/articles/janki-method-refined~~~ (this link is no longer working!)
 
 https://www.supermemo.com/en/archives1990-2015/articles/20rules (very important!)
 
