@@ -149,9 +149,7 @@ https://www.youtube.com/watch?v=QsIzwrEZG8U
 
 ### For Mock Interviews
 
-I recommend you do the free peer-to-peer interviews on https://pramp.com 
-
-They have good prepared problems, but they only have 36 problems. 
+I recommend you do the free peer-to-peer interviews on https://pramp.com They have good prepared problems, but they only have 36 problems. (since I've made that recommendation, that site has been acquired by Exponent, but the peer-to-peer interviews are still free and they seem to be adding problems)
 
 Also, you can use our [meetup](https://www.meetup.com/bayareaalgorithms) discord server to find mock interview partners or study partners. 
 
